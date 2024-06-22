@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hey, I'm Bhavesh 👋🏽  
 
-<!--
-**arren-env/arren-env** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 21-year-old developer based in India, and I'm passionate about crafting digital experiences. 
 
-Here are some ideas to get you started:
+ ## 📦 Toolbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Framer-Motion` `JavaScript` `Angular`
+ 
+**Version Control:** `Git` `GitLab` `Bitbucket`
+
+**Backend Development:** `Node.js` `ASP.NET Core` `Firebase` `Prisma`
+
+**Testing:** `Vitest` `Postman` `Insomnia`
+
+**Others:** `Redux Toolkit` `Zustand`
+
+## 📫 Contact
+
+ For a quick response, [Mail](bhaveshjp2407@gmail.com). 
+ 
