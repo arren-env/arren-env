@@ -12,7 +12,7 @@ I'm a 21-year-old developer based in India, and I'm passionate about crafting di
 
 **Testing:** `Vitest` `Postman` `Insomnia`
 
-**Others:** `Redux Toolkit` `Zustand`
+**Others:** `Redux Toolkit` `Zustand` `Entity Framework (EF) Core` `Express.js` `ADO.NET`
 
 ## 📫 Contact
 
