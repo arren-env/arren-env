@@ -4,7 +4,7 @@ I'm a 21-year-old developer based in India, and I'm passionate about crafting di
 
  ## 📦 Toolbox
 
-**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Framer-Motion` `JavaScript` `Angular`
+**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Framer-Motion` `JavaScript` `Angular` `ASP.NET MVC` `GSAP`
  
 **Version Control:** `Git` `GitLab` `Bitbucket`
 
