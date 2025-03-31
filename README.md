@@ -16,5 +16,4 @@ I'm a 21-year-old developer based in India, and I'm passionate about crafting di
 
 ## 📫 Contact
 
- For a quick response, [Mail](bhaveshjp2407@gmail.com). 
- 
+ For a quick response, [Mail](mailto:bhaveshjp2407@gmail.com)
