@@ -6,11 +6,11 @@ I'm a 21-year-old developer based in India, and I'm passionate about crafting di
 
 **Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Framer-Motion` `JavaScript` `Angular` `ASP.NET MVC` `GSAP`
  
-**Version Control:** `Git` `GitLab` `Bitbucket`
+**Version Control:** `Git`
 
 **Backend Development:** `Node.js` `ASP.NET Core` `Firebase` `Prisma`
 
-**Testing:** `Vitest` `Postman` `Insomnia`
+**Testing:** `Postman` `Insomnia`
 
 **Others:** `Redux Toolkit` `Zustand` `Entity Framework (EF) Core` `Express.js` `ADO.NET`
 
